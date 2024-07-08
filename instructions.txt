@@ -1,0 +1,7 @@
+Instructions
+1. Install pytest and pytest-spark: To packages installed in the environment.
+
+pip install pytest pytest-spark
+
+2. Run the Tests: Execute the tests using pytest.
+pytest test_main.py
